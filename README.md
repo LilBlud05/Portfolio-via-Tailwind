@@ -1,4 +1,4 @@
-# Portfolio via Tailwind
+# Umar's Portfolio
 
 A simple personal portfolio website built with HTML and Tailwind CSS.
 
